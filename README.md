@@ -1,4 +1,3 @@
 # 실무자가 알려주는 Git
 
--  Inflearn: https://www.inflearn.com
-
+## [입문편](./beginner/README.md)
