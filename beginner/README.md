@@ -255,7 +255,8 @@ git lg
    * 1e928bc - (20 seconds ago) Modify files - Country (HEAD -> master)
    * 51462d0 - (4 hours ago) Modify st.md - Country
    * ab118e1 - (4 hours ago) Make st.md - Country
-   * e5d33ad - (2 days ago) initial commit - Country (origin/master)   ```
+   * e5d33ad - (2 days ago) initial commit - Country (origin/master)  
+   ```
 #### 옵션
 - `-m` : 메시지를 넣음
 - `-a` : `add`를 같이 함. 단순히 Modified
