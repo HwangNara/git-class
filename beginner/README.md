@@ -419,7 +419,7 @@ git lg
   mkdir git-other
   cd git-other
   git clone 'https://github.com/HwangNara/git-exer.git'
-  cd git-class
+  cd git-exer
   vi README.md
   git ci -am 'Modify README.md'
   git push
